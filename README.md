@@ -21,3 +21,4 @@ apath_HMF02_O	  Alpha-C		HMF binding alpha-C pathway 2 with ketone - as above wi
 apath_HMF03	    Alpha-C		HMF binding alpha-C pathway 3 - Alpha carbon bonding with 02 linking unit.
 bpath_HMF01	    Beta-C		HMF binding beta-C pathway 1 - Beta carbon bonding with single linking unit.
 bpath_HMF02	    Beta-C		HMF binding beta-C pathway 2 - 2 alpha 1 Beta carbon bonding with 0 linking units.
+bpath_HMF03     Beta-C    HMF binding beta-C pathway 3 - 3 Beta carbon bonding with 0 linking units.
