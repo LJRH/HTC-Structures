@@ -14,6 +14,7 @@ Ground state geometry optimisation performed using ORCA software with following:
 
 ### List of Structures:
 Structure Name |Type | Notes
+----------------|-----------|------------------------------------------------------------------------------------
 5HMF		        |Reference	|Literature suggests hydroxymethylfurfural as the HTC subunit.
 DHA		          |Reference	|Dihydoxyacetone - suggested to be a major linking unit
 Formic Acid	    |Reference	|Formic Acid - Typically formed during HTC from HPLC measurements.
