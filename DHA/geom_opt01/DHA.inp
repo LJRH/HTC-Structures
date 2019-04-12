@@ -1,0 +1,24 @@
+# avogadro generated ORCA input file
+# Basic Mode
+# DHA-GeomOpt
+! B3LYP RIJCOSX D3 ma-def2-TZVP def2/J Opt TIGHTSCF Grid3 FinalGrid5
+! Normalprint
+%output
+Print[ P_Basis ] 2
+Print[ P_MOs ] 1
+End  
+
+* xyz 0 1
+   O       -3.38680        2.58200        0.07835
+   C       -2.31863        3.48445        0.17052
+   C       -1.00533        2.75726        0.08544
+   H       -2.36321        4.01883        1.14518
+   H       -2.37223        4.21459       -0.66706
+   C        0.27694        3.53858        0.16346
+   H       -4.21358        3.12734        0.14142
+   O        1.38130        2.68143        0.06538
+   H        0.30451        4.07446        1.13792
+   H        0.29551        4.27022       -0.67431
+   H        2.18495        3.26077        0.12401
+   O       -0.98034        1.54137       -0.04603
+*
