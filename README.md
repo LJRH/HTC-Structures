@@ -6,11 +6,19 @@ Structures of postulated HTC components for XANES calcs.
 - [x] Orca geometry optimisation.
 
 ### Geometry Optomisation:
-Ground state geometry optimisation performed using ORCA software with following:
+Ground state geometry optimisation performed using ORCA (4.0) software with following:
 * functional set:  B3LYP
 * basis set:	     ma-def2-TZVP
 * aux basis set:	 def2/J
 * dispersion Corr: D3
+* approximations: RIJCOSX
+
+The larger structures (bpath_HMF02 & bpath_HMF03) were performed using:
+* functional set: PBE0
+* basis set: def2-TZVP (triple Zeta)
+* aux basis set: def2/JK
+* dispersion correction: D3BJ
+* approximations: RIJK
 
 ### List of Structures:
 Structure Name |Geom Optomised? |Type | Notes
