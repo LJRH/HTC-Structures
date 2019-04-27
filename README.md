@@ -4,6 +4,7 @@ Structures of postulated HTC components for XANES calcs.
 ### To do
 - [x] Generate structures in Avogadro and UFF minimise.
 - [x] Orca geometry optimisation.
+- [ ] Erkale C-K core calculation.
 
 ### Geometry Optomisation:
 Ground state geometry optimisation performed using ORCA (4.0) software with following:
