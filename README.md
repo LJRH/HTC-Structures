@@ -1,5 +1,5 @@
 # HTC-Structures
-Structures of postulated HTC components for XANES calcs.
+Structures of postulated Hydrothermal Carbon (HTC) molecular components for XANES calcs.
 
 ### To do
 - [x] Generate structures in Avogadro and UFF minimise.
