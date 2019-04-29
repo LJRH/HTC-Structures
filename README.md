@@ -7,7 +7,7 @@ Structures of postulated Hydrothermal Carbon (HTC) molecular components for XANE
 - [ ] Erkale C-K core calculation.
 
 ### Geometry Optomisation:
-Ground state geometry optimisation performed using ORCA (4.0) software.
+Ground state geometry optimisation performed using ORCA (4.0) software.\\
 Smaller structures were performed using:
 * functional set:  B3LYP
 * basis set:	     ma-def2-TZVP
