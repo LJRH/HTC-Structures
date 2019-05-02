@@ -27,7 +27,7 @@ The larger structures (bpath_HMF02 & bpath_HMF03) were performed using:
 
 ### List of Structures:
 Structure Name | Geom Optomised? | Erkale Calculation |Type | Notes
-----------------|-----------|-----------|------------------------------------------------------------------------------------
+----------------|-----------|-----------|-----------|------------------------------------------------------------------------------------
 5HMF		        | [x] | [x] |Reference	|Literature suggests hydroxymethylfurfural as the HTC subunit.
 DHA		          | [x] | [x] |Reference	|Dihydoxyacetone - suggested to be a major linking unit
 Formic Acid	    | [x] | [x] |Reference	|Formic Acid - Typically formed during HTC from HPLC measurements.
