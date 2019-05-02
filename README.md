@@ -22,18 +22,21 @@ The larger structures (bpath_HMF02 & bpath_HMF03) were performed using:
 * dispersion correction: D3BJ
 * approximations: RIJK
 
+### Erkale Calculation:
+<insert details of calculations>
+
 ### List of Structures:
-Structure Name |Geom Optomised? |Type | Notes
+Structure Name | Geom Optomised? | Erkale Calculation |Type | Notes
 ----------------|-----------|-----------|------------------------------------------------------------------------------------
-5HMF		        | [x] |Reference	|Literature suggests hydroxymethylfurfural as the HTC subunit.
-DHA		          | [x] |Reference	|Dihydoxyacetone - suggested to be a major linking unit
-Formic Acid	    | [x] |Reference	|Formic Acid - Typically formed during HTC from HPLC measurements.
-Levullinic Acid	| [x] |Reference	|Levullinic Acid - Typically formed during HTC from HPLC measurements.
-apath_HMF00	    | [x] |Alpha-C		|HMF binding alpha-C pathway 0 - Alpha carbon bonding with no linking unit.
-apath_HMF01	    | [x] |Alpha-C		|HMF binding alpha-C pathway 1 - Alpha carbon bonding with 01 linking unit.
-apath_HMF02	    | [x] |Alpha-C		|HMF binding alpha-C pathway 2 - Alpha carbon bonding with 02 linking unit.
-apath_HMF02_O	  | [x] |Alpha-C		|HMF binding alpha-C pathway 2 with ketone - as above with ketone O=C.
-apath_HMF03	    | [x] |Alpha-C		|HMF binding alpha-C pathway 3 - Alpha carbon bonding with 02 linking unit.
-bpath_HMF01	    | [x] |Beta-C		  |HMF binding beta-C pathway 1 - Beta carbon bonding with single linking unit.
-bpath_HMF02	    | [x] |Beta-C		  |HMF binding beta-C pathway 2 - 2 alpha 1 Beta carbon bonding with 0 linking units.
-bpath_HMF03     | [x] |Beta-C     |HMF binding beta-C pathway 3 - 3 Beta carbon bonding with 0 linking units.
+5HMF		        | [x] | [x] |Reference	|Literature suggests hydroxymethylfurfural as the HTC subunit.
+DHA		          | [x] | [x] |Reference	|Dihydoxyacetone - suggested to be a major linking unit
+Formic Acid	    | [x] | [x] |Reference	|Formic Acid - Typically formed during HTC from HPLC measurements.
+Levullinic Acid	| [x] | [x] |Reference	|Levullinic Acid - Typically formed during HTC from HPLC measurements.
+apath_HMF00	    | [x] | [x] |Alpha-C		|HMF binding alpha-C pathway 0 - Alpha carbon bonding with no linking unit.
+apath_HMF01	    | [x] | [x] |Alpha-C		|HMF binding alpha-C pathway 1 - Alpha carbon bonding with 01 linking unit.
+apath_HMF02	    | [x] | [x] |Alpha-C		|HMF binding alpha-C pathway 2 - Alpha carbon bonding with 02 linking unit.
+apath_HMF02_O	  | [x] | [x] |Alpha-C		|HMF binding alpha-C pathway 2 with ketone - as above with ketone O=C.
+apath_HMF03	    | [x] | [x] |Alpha-C		|HMF binding alpha-C pathway 3 - Alpha carbon bonding with 02 linking unit.
+bpath_HMF01	    | [x] | [x] |Beta-C		  |HMF binding beta-C pathway 1 - Beta carbon bonding with single linking unit.
+bpath_HMF02	    | [x] | [x] |Beta-C		  |HMF binding beta-C pathway 2 - 2 alpha 1 Beta carbon bonding with 0 linking units.
+bpath_HMF03     | [x] | [x] |Beta-C     |HMF binding beta-C pathway 3 - 3 Beta carbon bonding with 0 linking units.
