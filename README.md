@@ -23,7 +23,11 @@ The larger structures (bpath_HMF02 & bpath_HMF03) were performed using:
 * approximations: RIJK
 
 ### Erkale Calculation:
-<insert details of calculations>
+https://github.com/susilehtola/erkale/wiki/ERKALE
+* scf: gga, double-zeta basis set
+* xrs: half core-hole TPA calculation, dipole and q=0.01, 0.2, 0.4, 0.6, 0.8, 1.0 a.u. available, averages done for dipole
+* xch: full core-hole calculation for delta-Kohn-Sham energy correction
+calculations of the bigger molecules are still missing, will come as soon as the cluster is less busy
 
 ### List of Structures:
 Structure Name | Geom Optomised? | Erkale Calculation |Type | Notes
