@@ -1,0 +1,1 @@
+GEOMOPT01 was wrong because the double bond was located adjacent to the a carbon. Fixed for GEOMOPT02.
