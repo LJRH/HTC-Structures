@@ -1,0 +1,12 @@
+System ../5HMF_4-xrs.xyz 
+Method gga_x_rpbe-gga_c_pbe 
+Basis ../basis.gbs 
+# ... with the ground-state density given by 
+LoadChk ../scf/gga.chk 
+XRSAugment 1 
+XRSMethod XCH 
+# use direct 
+Direct true 
+# do not use Cholesky decomposition 
+Cholesky false 
+IntegralThresh 1.000e-8 

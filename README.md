@@ -38,9 +38,9 @@ Formic Acid	    | [x] | [x] |Reference	|Formic Acid - Typically formed during HT
 Levullinic Acid	| [x] | [x] |Reference	|Levullinic Acid - Typically formed during HTC from HPLC measurements.
 apath_HMF00	    | [x] | [x] |Alpha-C		|HMF binding alpha-C pathway 0 - Alpha carbon bonding with no linking unit.
 apath_HMF01	    | [x] | [x] |Alpha-C		|HMF binding alpha-C pathway 1 - Alpha carbon bonding with 01 linking unit.
-apath_HMF02	    | [x] | [ ] |Alpha-C		|HMF binding alpha-C pathway 2 - Alpha carbon bonding with 02 linking unit.
+apath_HMF02	    | [x] | [x] |Alpha-C		|HMF binding alpha-C pathway 2 - Alpha carbon bonding with 02 linking unit.
 apath_HMF02_O	  | [x] | [ ] |Alpha-C		|HMF binding alpha-C pathway 2 with ketone - as above with ketone O=C.
 apath_HMF03	    | [x] | [ ] |Alpha-C		|HMF binding alpha-C pathway 3 - Alpha carbon bonding with 02 linking unit.
-bpath_HMF01	    | [x] | [ ] |Beta-C		  |HMF binding beta-C pathway 1 - Beta carbon bonding with single linking unit.
+bpath_HMF01	    | [x] | [x] |Beta-C		  |HMF binding beta-C pathway 1 - Beta carbon bonding with single linking unit.
 bpath_HMF02	    | [x] | [ ] |Beta-C		  |HMF binding beta-C pathway 2 - 2 alpha 1 Beta carbon bonding with 0 linking units.
 bpath_HMF03     | [x] | [ ] |Beta-C     |HMF binding beta-C pathway 3 - 3 Beta carbon bonding with 0 linking units.

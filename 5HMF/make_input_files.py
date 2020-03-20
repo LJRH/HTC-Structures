@@ -3,7 +3,7 @@ from pylab import *
 ion()
 
 import sys
-sys.path.append('/home/christoph/sources/XRStools/')
+#sys.path.append('/home/christoph/sources/XRStools/')
 from XRStools import xrs_calctools, xrs_utilities, math_functions
 
 import copy
@@ -11,7 +11,8 @@ import os
 
 ex_atom = 'C'
 
-path = '/home/christoph/atoms/HTC-Structures/5HMF/'
+#path = '/home/christoph/atoms/HTC-Structures/5HMF/'
+path = '/Users/lukehiggins/OneDrive - University of Leeds/_HIGGINS-PhD_/HPC/HTC-Structures/5HMF/'
 fname = '5HMF.xyz'
 # read xyz file
 box = xrs_calctools.boxParser( path+fname )
@@ -90,3 +91,4 @@ for ii,atom in enumerate(all_ex_atoms):
     xchf.write('IntegralThresh 1.000e-8 \n')
     xchf.close()
 
+    print('finished creating ERKALE input files:', )

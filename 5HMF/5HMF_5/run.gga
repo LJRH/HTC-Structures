@@ -1,0 +1,15 @@
+# Coordinates are given in the file 
+System ../5HMF_5.xyz 
+# Use GGA-PBE exchange and GGA-PBE correlation 
+Method gga_x_rpbe-gga_c_pbe 
+# Use the cc-pVDZ basis set 
+Basis ../basis.gbs 
+# Save the results in the checkpoint file 
+SaveChk gga.chk 
+# Use the core guess to initialize the calculation 
+Guess Core 
+# use direct 
+Direct true 
+# do not use Cholesky decomposition 
+Cholesky false 
+IntegralThresh 1.000e-8 
