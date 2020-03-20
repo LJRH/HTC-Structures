@@ -2,9 +2,11 @@
 Structures of postulated Hydrothermal Carbon (HTC) molecular components for XANES calcs.
 
 ### To do
-- [x] Generate structures in Avogadro and UFF minimise.
-- [x] Orca geometry optimisation.
-- [ ] Erkale C-K core calculation.
+
+[x] Calculate Structures and corresponding CK XRSS spectra for relevant subuntits in hydrothermal carbon.
+[x] Collect LA and FDCA standards at 20ID APS (March 2020)
+[ ] Calculate CK XRSS spectra for FDCA and compare to collected standard.
+[ ] Adjust broadening for calculated XRSS to match collected standard.
 
 ### Geometry Optomisation:
 Ground state geometry optimisation performed using ORCA (4.0) software.\\
@@ -33,9 +35,10 @@ calculations of the bigger molecules are still missing, will come as soon as the
 Structure Name | Geom Optomised? | Erkale Calculation |Type | Notes
 ----------------|-----------|-----------|-----------|------------------------------------------------------------------------------------
 5HMF		        | [x] | [x] |Reference	|Literature suggests hydroxymethylfurfural as the HTC subunit.
+FDCA            | [x] | [ ] |Standard   |XRSS data collected for FDCA in March at 20ID APS (attached).
 DHA		          | [x] | [x] |Reference	|Dihydoxyacetone - suggested to be a major linking unit
 Formic Acid	    | [x] | [x] |Reference	|Formic Acid - Typically formed during HTC from HPLC measurements.
-Levullinic Acid	| [x] | [x] |Reference	|Levullinic Acid - Typically formed during HTC from HPLC measurements.
+Levullinic Acid	(LA)| [x] | [x] |Reference/Standard	|Levullinic Acid - Typically formed during HTC from HPLC measurements and collected as a standard at 20ID APS (attached).
 apath_HMF00	    | [x] | [x] |Alpha-C		|HMF binding alpha-C pathway 0 - Alpha carbon bonding with no linking unit.
 apath_HMF01	    | [x] | [x] |Alpha-C		|HMF binding alpha-C pathway 1 - Alpha carbon bonding with 01 linking unit.
 apath_HMF02	    | [x] | [x] |Alpha-C		|HMF binding alpha-C pathway 2 - Alpha carbon bonding with 02 linking unit.
