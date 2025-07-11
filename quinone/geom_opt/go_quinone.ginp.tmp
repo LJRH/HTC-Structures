@@ -1,0 +1,14 @@
+go_quinone.gbw 
+1 
+1 
+0 
+$constraints
+ 0
+ 0
+ 1 6
+      0     13     -1     -1     -1      0   0.00000000
+
+
+$autoAddFragBonds
+ 10
+   5.00000000
